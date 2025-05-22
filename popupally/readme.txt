@@ -1,18 +1,17 @@
 === PopupAlly ===
 
-Contributors: rli,sethshoultes,supercleanse
+Contributors: cartpauj,sethshoultes,supercleanse
 Plugin Name: PopupAlly
 Plugin URI: https://popupally.com
-Donate link: https://accessally.com
+Donate link: https://popupally.com
 Tags: popups, free popups, lightbox, conversion, sign-up form
-Author URI: https://accessally.com
-Author: Robin Li
-Requires at least: 2.3
-Tested up to: 6.5.4
-Version: 2.1.3
-Stable tag: 2.1.3
-License: Artistic License 2.0
-License URI: http://www.perlfoundation.org/artistic_license_2_0
+Author URI: https://popupally.com
+Author: Caseproof
+Requires at least: 6.0
+Tested up to: 6.8
+Stable tag: 2.1.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 PopupAlly allows you to create advanced popup signup forms in under 5 minutes without dealing with messy code.
 
