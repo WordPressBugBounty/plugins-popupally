@@ -9,7 +9,7 @@ Author URI: https://popupally.com
 Author: Caseproof
 Requires at least: 6.0
 Tested up to: 6.8
-Stable tag: 2.1.4
+Stable tag: 2.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -138,6 +138,14 @@ Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and 
 4. Control exactly when and where the popup will appear!
 
 == Changelog ==
+= 2.1.6 =
+* WP Compatibility
+
+= 2.1.5 =
+* WP Compatibility
+
+= 2.1.4 =
+* WP Compatibility
 
 = 2.1.3 =
 * Update tested version to 6.5.4.
@@ -323,170 +331,6 @@ Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and 
 
 = 1.0.1 =
 * Fix sign-up form field selection issue.
-
-= 1.0 =
-* Initial release.
-
-== Upgrade Notice ==
-
-= 2.1.3 =
-* Update tested version to 6.5.4. No action is required after update.
-
-= 2.1.2 =
-* Update tested version to 6.5.3. No action is required after update.
-
-= 2.1.1 =
-* Update tested version to 6.4.2. No action is required after update.
-
-= 2.1.0 =
-* Update tested version to 6.1.1. No action is required after update.
-
-= 2.0.4 =
-* Update tested version to 5.7.2. No action is required after update.
-
-= 2.0.3 =
-* Update tested version to 5.2.2. No action is required after update.
-
-= 2.0.2 =
-* Update tested version to 4.9.8. No action is required after update.
-
-= 2.0.1 =
-* Update tested version to 4.7. No action is required after update.
-
-= 2.0.0 =
-* Major upgrade to backend interface. Please double-check / customize the mobile responsive views for the popups in Style Settings after update.
-
-= 1.5.2 =
-* Fix Javascript issue where opt-in form code was not parsed in Style Settings. No action is required after update.
-
-= 1.5.1 =
-* Fix issue where ConvertKit form method is not used in popup generation. No action is required after update.
-
-= 1.5.0 =
-* Update tested version to 4.4.2. No action is required after update.
-
-= 1.4.9 =
-* Cosmetic update to interface. No action is required after update.
-
-= 1.4.8 =
-* Update tested version to 4.3.1. No action is required after update.
-
-= 1.4.7 =
-* Update tested version to 4.2.3. Add error checking to setting values. No action is required after update.
-
-= 1.4.6 =
-* Update tested version to 4.2.2. Cosmetic changes to interface. No action is required after update.
-
-= 1.4.5 =
-* Update tested version to 4.1.2. No action is required after update.
-
-= 1.4.4 =
-* Fix bug in the Tried-and-true template that causes incorrect height when embedded in post content. No action is required after update.
-
-= 1.4.3 =
-* Update tested version. No action is required after update.
-
-= 1.4.2 =
-* Update "Express Yourself" popup CSS so that the layout is not affected by parent container's text-align settings. No action is required after update.
-
-= 1.4.1 =
-* Update embedded popup CSS so that the layout is not affected by "float" elements. No action is required after update.
-
-= 1.4.0 =
-* Change cookie value to "disable" avoid being mistaken for malicious value. No action is required after update.
-
-= 1.3.9 =
-* Update PopupAlly description. No action is required after update.
-
-= 1.3.8 =
-* Test and verify that PopupAlly is compatible with WordPress 4.0. No action is required after update.
-
-= 1.3.7 =
-* Fix bug where popup does not close on iPhone when clicking on background. No action is required after update.
-
-= 1.3.6 =
-* Update popup script so it is compatible with more sites. No action is required after update.
-
-= 1.3.5 =
-* Fix issue for preview display error when the opt-in form has an input field with no name. No action is required after update.
-
-= 1.3.4 =
-* Update "Tested-up-to" version to 3.9.2. No action is required after update.
-
-= 1.3.3 =
-* Remove unused class to avoid conflict. No action is required after update.
-
-= 1.3.2 =
-* Add id selector to CSS template to prevent being overwritten by theme styling. Please re-save 'Style Settings' if 'Do NOT use inline Javascript/CSS' is checked under advanced settings.
-
-= 1.3.1 =
-* Bug fixes for the close button. This fix affects very few sites (sites that are installed in a subdirectory, sites with themes that prevented the close button from being clicked). No action is required after update.
-
-= 1.3.0 =
-* Added customization option to Advanced Settings. This fixes the issue where Display Settings fails to load due to time out for sites with a lot of (10k+) pages/posts
-
-= 1.2.9 =
-* Bug fix in style customization. Please review 'Express Yourself' template setting if there was an issue with the subscribe button location.
-
-= 1.2.8 =
-* Cosmetic changes to front end display. No action is required after update.
-
-= 1.2.7 =
-* Fix mismatch between preview and embedded view for "express-yourself" template. No action is required after update.
-
-= 1.2.6 =
-* Remove the word 'color' from the color input control to avoid conflict with other scripts on the backend.  No action is required after update.
-
-= 1.2.5 =
-* Fix default template introduction text row height issue for mobile display. No action is required after update.
-
-= 1.2.4 =
-* Fix thank you page setup link. No action is required after update.
-
-= 1.2.3 =
-* Fix responsive style for non-square logo image. No action is required after update.
-
-= 1.2.2 =
-* Fix responsive style for embedded sign-up forms. No action is required after update. Please re-save 'Style Settings' if 'Do NOT use inline Javascript/CSS' is checked under advanced settings.
-
-= 1.2.0 =
-* Added display options and style templates. The changes do not affect existing set up.
-
-= 1.1.8 =
-* Fix issue where only 5 posts are shown in Display Setting selections. No action is required after update.
-
-= 1.1.7 =
-* Update readme file
-
-= 1.1.6 =
-* Only affect sites with css background-image defined for input[type="submit"]. No action is required after update.
-
-= 1.1.5 =
-* Only affect sites with PHP version lower than 5.3. No action is required after update.
-
-= 1.1.4 =
-* Only affect sites with pre-1.7 jQuery. No action is required after update.
-
-= 1.1.3 =
-* Remove all 'fancybox' string to avoid conflict. Please re-save 'Style Settings' if 'Do NOT use inline Javascript/CSS' is checked under advanced settings.
-
-= 1.1.2 =
-* A minor backend fix that corrects Javascript error. No manual update is required and it does not affect front-end display.
-
-= 1.1.1 =
-* Define submit button height to be auto.
-
-= 1.1.0 =
-* Improves page/post selection on Display Setting. Fixes minor style issues when conflict with existing CSS. Add non-inline mode for themes that do not implement the wp_head function.
-
-= 1.0.4 =
-* Do not generate hidden fields if none exists. This update has no impact if you are not currently seeing errors.
-
-= 1.0.3 =
-Affects form parsing for Madmimi. Resave 'Style Settings' after upgrade. Upgrade immediately.
-
-= 1.0.1 =
-* Fix sign-up form field display issue. Upgrade immediately.
 
 = 1.0 =
 * Initial release.
