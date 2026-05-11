@@ -17,17 +17,7 @@
 			<td class="popupally-setting-title-cell popupally-setting-right-col">
 				<div class="popupally-title-block">
 					<div class="popupally-setting-title">PopupAlly</div>
-
 					<div class="popupally-setting-section-help-text"><div class="popupally-info-icon"></div>Need extra help? View our documentation and tutorials <a class="underline" target="_blank" href="<?php echo esc_attr(PopupAlly::HELP_URL); ?>">here</a>!</div>
-					<?php if ($show_opt_in) { ?>
-					<form target="_blank" action="" id="popupally-free-optin" method="POST">
-						<img id="popupally-free-optin-img" src="" />
-						<div id="popupally-free-optin-text"></div>
-						<input id="popupally-free-optin-name" type="text" name="" required="required" placeholder="Name" value="<?php echo esc_attr($admin_name); ?>" />
-						<input id="popupally-free-optin-email" type="text" name="" required="required" placeholder="Email" value="<?php echo esc_attr($admin_email); ?>" />
-						<input id="popupally-free-optin-submit" type="submit" value="" />
-					</form>
-					<?php } ?>
 				</div>
 			</td>
 		</tr>

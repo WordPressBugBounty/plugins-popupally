@@ -8,15 +8,15 @@ Tags: popups, free popups, lightbox, conversion, sign-up form
 Author URI: https://popupally.com
 Author: Caseproof
 Requires at least: 6.0
-Tested up to: 6.8
-Stable tag: 2.1.6
+Tested up to: 6.9
+Stable tag: 2.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 PopupAlly allows you to create advanced popup signup forms in under 5 minutes without dealing with messy code.
 
 == Description ==
-If you're looking to grow your list, then PopupAlly is the no-fluff free WordPress popup plugin for you. With built-in advanced features this lightbox popup plugin allows you to build your list as people are about to exit your website. 
+If you're looking to grow your list, then PopupAlly is the no-fluff free WordPress popup plugin for you. With built-in advanced features this lightbox popup plugin allows you to build your list as people are about to exit your website.
 
 Exit-intent popups allow you to capture lost visitors and have been shown to increase conversion by over 300%. [PopupAlly](https://popupally.com) allows you to create advanced popup signup forms in under 5 minutes, even if you don't know code. PopupAlly's visual editor allows you to customize the look-and-feel of your popups with an instant preview, saving you lots of time.
 
@@ -47,7 +47,7 @@ Plus, PopupAlly is compatible with any theme - so it will look good and fit with
 
 = Time Delay and Exit-Intent Popups =
 
-Not sure about using a popup on your site? With PopupAlly, you can choose when a popup appears... whether it's after a certain amount of time of your site, or right before someone is about to leave. 
+Not sure about using a popup on your site? With PopupAlly, you can choose when a popup appears... whether it's after a certain amount of time of your site, or right before someone is about to leave.
 
 The exit intentionality feature is extremely effective, because it doesn't interrupt your readers and visitors but it helps you capture their attention and their email address, before it's too late!
 
@@ -68,10 +68,10 @@ You can create mini-surveys, have unlimited opt-ins, more polite popups, and muc
 * Scroll Activated Box and Popups That Appear in Any Corner
 * Click To Open Popups for a 2-step opt-in (shown to increase conversions!)
 * Floating and Embedded Horizontal Optin Bars (Top or Bottom for a HelloBar Alternative)
-* Smart-Subscriber Recognition For More Polite Popups	
+* Smart-Subscriber Recognition For More Polite Popups
 * Show Different Opt-Ins On Specific Pages And Blog Categories
 * Reader Decision Points & "Yes Or No" aka Mini-Survey Popups
-* Statistics Tracking and Split Testing	
+* Statistics Tracking and Split Testing
 * Add Videos, Social Media Sharing Code, or Anything Else to Your Popups
 * Customizable Popup "Contact Forms" With Any Number of Fields That Sends an Email
 * Support for Multiple Languages
@@ -98,9 +98,6 @@ This simple popup plugin is pretty intuitive, but we've also written [extensive 
 
 With PopupAlly you can easily customize the look and feel of your lightbox popup, starting with the headline text, adding an image, and changing the colors to match your website's design. Then you decide if you want the popups to appear after a timed delay, or right before someone is about to leave your site. You also decide how often your popup should re-appear if someone closes it, so it doesn't annoy your visitors!
 
-= Increase Your List More in 30 Days Or Less =
-With the help of this free WordPress popup plugin you'll be well on your way to growing your list faster than ever before. But don't stop there, go ahead and join the [free 30 Day List Building Challenge](https://30daylistbuildingchallenge.com) and see what's possible when you start to apply these additional list building strategies. 
-
 > **Find Out Why PopupAlly Was Featured In Entrepreneur.com**
 > "PopupAlly resulted in a 32% increase in our conversion rate and more than tripled our email database in two months." -Adam Callinan, Entrepreneur.com
 
@@ -116,13 +113,7 @@ If you use one of the following email marketing platforms, then you'll love Acce
 * [Infusionsoft LMS](https://accessally.com/integrations/infusionsoft)
 * [Ontraport LMS](https://accessally.com/integrations/ontraport)
 
-Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and increase your optin subscriber rate today! 
-
-> **Take The Free 30 Day List Building Challenge**
-> Take the [free 30 Day List Building Challenge](http://30daylistbuildingchallenge.com) to learn how to build your list more in the next 30 days than you have in the last 3 months. 
-> 
-> Over 50,000 rebellious list builders have gone through the free challenge, and results range from adding a 100 to 1000 new subscribers... to doubling or tripling their email list. [What goal will you set](https://30daylistbuildingchallenge.com)?
-
+Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and increase your optin subscriber rate today!
 == Installation ==
 
 1. Activate the PopupAlly plugin
@@ -138,6 +129,10 @@ Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and 
 4. Control exactly when and where the popup will appear!
 
 == Changelog ==
+= 2.1.7 =
+* WP 6.9 Compatiblity check
+* Removed 30 Day List Building Challenge
+
 = 2.1.6 =
 * WP Compatibility
 
@@ -338,7 +333,7 @@ Download [AccessAlly](https://accessally.com)'s free WordPress popup plugin and 
 == Frequently Asked Questions ==
 
 = How many popups can I have? =
-You can configure 2 popups without upgrading to the Pro version. These can be embedded opt-ins or used as popups. Find out what else [you get when you upgrade to PopupAlly Pro](https://accessally.com/upgrading-to-popupally-pro/?utm_source=wordpressdirectory&utm_medium=banner&utm_content=main&utm_campaign=popupallypro). 
+You can configure 2 popups without upgrading to the Pro version. These can be embedded opt-ins or used as popups. Find out what else [you get when you upgrade to PopupAlly Pro](https://accessally.com/upgrading-to-popupally-pro/?utm_source=wordpressdirectory&utm_medium=banner&utm_content=main&utm_campaign=popupallypro).
 
 = Where does the subscriber information go after they click the submit button? =
 You need an email marketing system before you can use PopupAlly. PopupAlly helps you create sign up forms that collect names and emails. Your email marketing automation platform stores the email addresses, and allows you to send a welcome sequence as well as regular newsletters to your subscribers. PopupAlly does not send emails directly to your subscribers.
@@ -351,7 +346,7 @@ If you don't have an email platform yet, here are some suggestions:
 * [Infusionsoft](https://accessally.com/infusionsoft)
 * [Ontraport](https://accessally.com/ontraport)
 * [MailChimp](https://nathalielussier.com/mailchimp)
-* [AWeber](https://nathalielussier.com/aweber) 
+* [AWeber](https://nathalielussier.com/aweber)
 
 Not sure how to choose between these options? Read our full [CRM comparison](https://accessally.com/crm-comparison) and see how they [stack up](https://accessally.com/blog/online-business-tools/tool-reviews/marketing-automation-tools/).
 
@@ -365,11 +360,11 @@ Absolutely! You can enable the popup for every post and page with 1 click on the
 No programming experience required! You can see all the customizations instantly in the Visual Editor.
 
 = Can I design mobile different responsive popups with PopupAlly? =
-The free version of PopupAlly does not allow you to design different popups and opt-ins for mobile responsive devices, but [PopupAlly Pro does](https://popupally.com?utm_source=wordpressdirectory&utm_medium=banner&utm_content=main&utm_campaign=popupallypro). With the Pro version you can decide what to include or exclude from smaller devices, and whether or not to show popups on mobile devices. 
+The free version of PopupAlly does not allow you to design different popups and opt-ins for mobile responsive devices, but [PopupAlly Pro does](https://popupally.com?utm_source=wordpressdirectory&utm_medium=banner&utm_content=main&utm_campaign=popupallypro). With the Pro version you can decide what to include or exclude from smaller devices, and whether or not to show popups on mobile devices.
 
-With the free version, there's a built-in look for mobile that is not customizable. 
+With the free version, there's a built-in look for mobile that is not customizable.
 
-Find out more about [Google's mobile popup policy here](https://popupally.com/blog/generate-more-leads/popups/google-anti-popup-mobile-policy/). 
+Find out more about [Google's mobile popup policy here](https://popupally.com/blog/generate-more-leads/popups/google-anti-popup-mobile-policy/).
 
 = How do I put in my own sign up form? =
 You just need to copy-and-paste in the HTML code from your CRM/list platform, and we will do the rest! No need to get your hands dirty with code.

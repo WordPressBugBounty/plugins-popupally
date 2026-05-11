@@ -3,10 +3,20 @@
  Plugin Name: PopupAlly
  Plugin URI: https://popupally.com/
  Description: Want to increase your subscriber base? Exit-intent popups allow you to capture lost visitors and have been shown to increase conversion by over 300%. PopupAlly allows you to create advanced popup signup forms in under 5 minutes, even if you don't know code. PopupAlly's visual editor allows you to customize the look-and-feel of your popups with an instant preview, saving you lots of time.
- Version: 2.1.6
+ Version: 2.1.7
  Author: Caseproof
  Author URI: https://popupally.com/
 */
+/**
+ * * * * * * * * * * * * * * * * * * * * * * *
+ *                                           *
+ * Reporting a Security Vulnerability        *
+ *                                           *
+ * Please disclose any security issues or    *
+ * vulnerabilities to security@caseproof.com *
+ *                                           *
+ * * * * * * * * * * * * * * * * * * * * * * *
+ */
 
 if (!class_exists('PopupAlly')) {
 	class PopupAlly {
@@ -234,15 +244,6 @@ if (!class_exists('PopupAlly')) {
 			self::check_php_version(self::SETTING_KEY_ALL);
 			$setting = self::get_selected_settings();
 
-			$submitted = self::get_optin_submit_settings();
-			$show_opt_in = empty($submitted['submit']);
-
-			$admin_name = $admin_email = '';
-			if ($show_opt_in) {
-				$current_user = wp_get_current_user();
-				$admin_name = $current_user->user_firstname;
-				$admin_email = $current_user->user_email;
-			}
 			include (dirname(__FILE__) . '/resource/backend/setting-all.php');
 		}
 
