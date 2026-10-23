@@ -8,7 +8,7 @@ Tags: popups, free popups, lightbox, conversion, sign-up form
 Author URI: https://popupally.com
 Author: Caseproof
 Requires at least: 6.0
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 2.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
